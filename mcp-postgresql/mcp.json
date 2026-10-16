@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "postgres": {
+      "type": "stdio",
+      "command": "/Users/naresh/mcp/.venv/bin/python",
+      "args": ["/Users/naresh/mcp/mcp-postgresql/server.py"]
+    }
+  }
+}
